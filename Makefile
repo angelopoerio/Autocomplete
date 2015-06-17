@@ -1,6 +1,6 @@
 clean:
 	rm *.o
-	rm main
+	rm cli
 build:
 	g++ autocomplete.cpp -g -c -o autocomplete.o
 	g++ cli.cpp -g -o cli autocomplete.o
