@@ -1,5 +1,5 @@
 # Autocomplete
-A small C++ implementation of autocomplete based on the Trie data structure
+A small C++ implementation of autocomplete based on the [Trie](https://en.wikipedia.org/?title=Trie) data structure
 
 # How to compile 
 ```bash
